@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 thai rau cau dep trai qua troi oi
+=======
+thai rau cau dep trai qua
+>>>>>>> 341d207c5a291e1689adba0d5547768bee95341b
 
