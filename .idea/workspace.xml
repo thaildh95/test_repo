@@ -1,17 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="84a766dd-4fe3-4809-9b4c-0ce8a12f630d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../date/card/card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date/card/mycssc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycssc.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ThaiLdh/case-study/src/app/service/customer.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../ThaiLdh/case-study/src/app/service/customer.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exam_spring/src/main/java/com/example/exam_spring/controller/CustomerRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam_spring/src/main/java/com/example/exam_spring/controller/CustomerRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2FtrNznPWHDQXmm9oOA5HIpTcUt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +55,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/form" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,11 +72,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665322185628</updated>
-      <workItem from="1665322187075" duration="954000" />
+      <workItem from="1665322187075" duration="6531000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1665328389408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1665328389408" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1665325158775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1665325158775" />
   </component>
 </project>
